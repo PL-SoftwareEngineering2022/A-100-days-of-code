@@ -47,7 +47,9 @@ print(length)
     # --> what is your name? phyllis
     # --> 7
 
-# write a program that will reverse the inputs "a" and "b"
+# Instructions
+#Write a program that switches the values stored in the variables a and b.
+#Your program should work for different inputs. e.g. any value of a and b.
 a = input("a: ")
 b = input("b: ")
 c=a
