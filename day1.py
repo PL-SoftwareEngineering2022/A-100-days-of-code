@@ -1,4 +1,5 @@
-# printing,commenting debugging,string manipulation and variables
+# printing, commenting, debugging, string manipulation and variables
+
 # print() echoes back the string or characters in between the ""
 print("something")
     #--> something
@@ -46,6 +47,7 @@ print(length)
     # --> what is your name? phyllis
     # --> 7
 
+# write a program that will reverse the inputs "a" and "b"
 a = input("a: ")
 b = input("b: ")
 c=a
@@ -66,4 +68,3 @@ print("the name of your band could be: " + city + " " + pet )
     # what is the name of the city you grew up in? Nairobi 
     # what is the name of your first pet? Chips
     # the name of your band could be: Nairobi Chips
-
