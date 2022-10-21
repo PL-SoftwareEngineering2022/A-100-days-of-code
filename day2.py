@@ -263,3 +263,8 @@ print(f"Each person will pay: ${round(bill_per_person,2)}")
     # what percentage tip would you like to give? 13
     # How many people will be splitting the bill? 7
     # Each person will pay: $16.14
+
+#final_amount = round(bill_per_person,2)
+# to display the last zero in a rounded off float, eg. 12.60 instead of 12.6, then you need to do a format:
+# final_ammount = {:.2f}".format(bill_per_person)
+#print(f""Each person should pay ${final_amount}")***
