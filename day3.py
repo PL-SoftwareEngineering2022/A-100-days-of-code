@@ -1,8 +1,8 @@
 # Conditional Statements and Logical Operators
-# 1. Control Flow with If/else and Conditional Operators
-# 2. Nested if and elif statements
-# 3. Multiple if statements in succession
-# 4. Logical operators
+    # 1. Control Flow with If/else and Conditional Operators
+    # 2. Nested if and elif statements
+    # 3. Multiple if statements in succession
+    # 4. Logical operators
 
 #Conditional statements: Control Flow with If/else and Conditional Operators
         # if condition:
