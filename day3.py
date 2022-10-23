@@ -10,12 +10,6 @@
         # else:
         #     do this
 
-from msilib.schema import Condition
-from re import A
-from shutil import which
-import this
-
-
 print("Welcome to the rollercoaster")
 height = int(input("what is you height in cm? "))
 if height > 60:
