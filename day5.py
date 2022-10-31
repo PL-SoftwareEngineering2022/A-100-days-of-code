@@ -113,8 +113,7 @@ print(average)
     # 5
     # 171
 
-
-# Highest and lowest score exercise:
+# Exercise: Highest and lowest score
 # Instructions:
 # You are going to write a program that calculates the highest score from a List of scores.
 # e.g. student_scores = [78, 65, 89, 86, 55, 91, 64, 89]
@@ -171,8 +170,7 @@ print(f"The lowest score is: {lowest_score}")
         # [130, 34, 45, 56, 78, 90, 137]
         # The lowest score is: 34
 
-
-# For loops and the range():
+# For Loops and the Range() Function:
 # for number in range(a, b):
     # print(number)
 
