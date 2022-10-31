@@ -21,3 +21,11 @@
                 - Understanding the offset and Appending Items to Lists
                 - Index Errors and Working with Nested Lists
 ### Day 5   - Python Loops
+                - Using the for loop with Python Lists
+                - for loops and the range() function
+### Day 6   - Python Functions and Karel
+                - Defining and Calling Python Functions
+                - Indentation in Python
+                - While Loops
+                - Jumping over Hurdles using While Loops
+                -
