@@ -1,6 +1,6 @@
-#For Loops, Ranges and Clode Blocks
-# Using the for loop with Python Lists
-# for loops and the range() function
+#For Loops, Ranges and Code Blocks
+    # Using the for loop with Python Lists
+    # for loops and the range() function
 
 # For loop
 # for item in list_of_items:
@@ -13,7 +13,7 @@ for fruit in fruits:
         # Pear
         # Banana
 
-#fruit represents a name for each of the items in the list. Can be any name
+#fruit represents a name for each of the items in the list; can be any name
 # fruits represents the list we need to loops through.
 
 #for loops are not limited to a single statement. They can also be used to print out code blocks within the for loops statement. eg.:
@@ -115,7 +115,7 @@ print(average)
 
 # Exercise: Highest and lowest score
 # Instructions:
-# You are going to write a program that calculates the highest score from a List of scores.
+# You are going to write a program that calculates the highest and lowest score from a list of scores.
 # e.g. student_scores = [78, 65, 89, 86, 55, 91, 64, 89]
 # Important you are not allowed to use the max() or min() functions. The output words must match the example. i.e
 # The highest score in the class is: x
@@ -174,7 +174,7 @@ print(f"The lowest score is: {lowest_score}")
 # for number in range(a, b):
     # print(number)
 
-# The range funcions is useful to generate numbers to loops through a list. 
+# The range funcion is useful to generate numbers to loops through a list. 
 # The range() function returns a sequence of numbers, starting from 0 by default, 
 # and increments by 1 (by default), and stops before a specified number. 
 
@@ -184,7 +184,7 @@ print(f"The lowest score is: {lowest_score}")
 # Parameter Values:
 # Parameter	Description
 # start	Optional. An integer number specifying at which position to start. Default is 0
-# stop	Required. An integer number specifying at which position to stop (not included).
+# stop	Required. An integer number specifying at which position to stop (this last number is not included).
 # step	Optional. An integer number specifying the incrementation. Default is 1
 
 # Example
@@ -223,7 +223,7 @@ for number in range(1, 10):
         # 9
 
 # Example:
-# the step denotes the number the range is going to be increased by if not the default of 1.
+# the step denotes the number the range is going to be increased by. If not specified, the default is a step of incrementing by 1.
 # Create a sequence of numbers from 3 to 19, but increment by 2 instead of 1:
 x = range(3, 20, 2)
 for n in x:
@@ -247,9 +247,11 @@ print(total)
 
 # Exercise: Adding Even Numbers
 # Instructions
-# You are going to write a program that calculates the sum of all the even numbers from 1 to 100. Thus, the first even number would be 2 and the last one is 100:
+# You are going to write a program that calculates the sum of all the even numbers from 1 to 100. 
+# Thus, the first even number would be 2 and the last one is 100:
 # i.e. 2 + 4 + 6 + 8 +10 ... + 98 + 100
-# Important, there should only be 1 print statement in your console output. It should just print the final total and not every step of the calculation.
+# Important, there should only be 1 print statement in your console output. 
+# It should just print the final total and not every step of the calculation.
 
 # Hint
 # There are quite a few ways of solving this problem, but you will need to use the range() function in any of the solutions.
@@ -409,7 +411,7 @@ for number in x: # or for number in range(1,101): <== without adding x =range() 
         # Fizz
         # Buzz
 
-# Project of the Day: Password Generator
+# Day 5 Project: Password Generator
 # Welcome to the PyPassword generator! 
 # How many letters would you like in your password?
 # 14
@@ -465,7 +467,8 @@ for char in range(1, nr_numbers + 1):
 for char in range(1, nr_symbols + 1):
     password_list += random.choice(symbols)
         # print(password_list) <== this will be generated as a list[].
-        #to reorder/rearrange the items in a list, you can either use a for loop (tedious because you have to create another list) or use the shuffle() function:
+        #to reorder/rearrange the items in a list, you can either use a for loop (tedious because you have to create another list) 
+        # or use the shuffle() function:
 random.shuffle(password_list)
         # print(password_list)
 password = ""
