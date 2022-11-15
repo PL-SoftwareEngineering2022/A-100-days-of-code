@@ -72,7 +72,7 @@ print(len(input("what is your name? ")))
 
 
 #variables()
-# varibales have to be one word and in python you can use an underscore, eg. user_name, or you can use a digit but it cannot be the at the beginning 
+# variables have to be one word and in python you can use an underscore, eg. user_name, or you can use a digit but it cannot be the at the beginning 
 # of the variable. you can have "length1" but not "1length"
 
 # you should use the special words like "print" or "input" as a variables as these are functions
@@ -106,6 +106,7 @@ print("b: " + b)
 
 
 # band name generator:
+# Make sure the input cursor shows on a new line.
 print("Hello! Welcome to the band generator.")
 city = input("what is the name of the city you grew up in?\n ")
 pet = input("what is the name of your first pet?\n ")
