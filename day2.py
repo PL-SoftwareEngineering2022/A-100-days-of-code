@@ -66,11 +66,14 @@ a = float(123)
 print(type(a))
     # <class 'float'>
 
-print(678 + float(345.5768))
+print(678 + float("345.5768"))
     # 1023.5768
 
 print(str(70) + str(80))
     # 7080
+    
+print("70" + "100")
+    # 70100
 
 # Instructions: Write a program that adds the digits in a 2 digit number. e.g. if the input was 35, then the output should be 3 + 5 = 8
 # Your program should work for different inputs. e.g. any two-digit number.
