@@ -10,7 +10,7 @@
                 - Python Primitive Data Types
                 - Type Error, Type Checking and Type Conversion
                 - Mathematical Operators in Python
-                - Number Manipulation anf F Strings in Python
+                - Number Manipulation and f-Strings in Python
 ### Day 3   - Conditional Statements and Logical Operators
                 - Control Flow with if/else and Conditional Operators
                 - Nested if Statemnts and  elif Statements
