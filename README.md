@@ -13,7 +13,7 @@
                 - Number Manipulation and f-Strings in Python
 ### Day 3   - Conditional Statements and Logical Operators
                 - Control Flow with if/else and Conditional Operators
-                - Nested if Statemnts and  elif Statements
+                - Nested if Statements and  elif Statements
                 - Multiple If Statements in Succession
                 - Logical Operators
 ### Day 4   - Randomization and Python Lists
