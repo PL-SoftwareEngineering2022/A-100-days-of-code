@@ -28,4 +28,6 @@
                 - Indentation in Python
                 - While Loops
                 - Jumping over Hurdles using While Loops
-                -
+### Day 7   - Hangman
+                - Break Complex Problem Down into a Flow Chart
+### 
