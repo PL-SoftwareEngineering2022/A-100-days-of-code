@@ -13,7 +13,7 @@
                 - Number Manipulation and f-Strings in Python
 ### Day 3   - Conditional Statements and Logical Operators
                 - Control Flow with if/else and Conditional Operators
-                - Nested if Statements and  elif Statements
+                - Nested if Statements and elif Statements
                 - Multiple If Statements in Succession
                 - Logical Operators
 ### Day 4   - Randomization and Python Lists
@@ -29,5 +29,5 @@
                 - While Loops
                 - Jumping over Hurdles using While Loops
 ### Day 7   - Hangman
-                - Break Complex Problem Down into a Flow Chart
+                - Break a Complex Problem Down into a Flow Chart
 ### 
