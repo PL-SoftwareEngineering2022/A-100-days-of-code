@@ -16,7 +16,6 @@ print("123" + "456")
 2. #Integers: Whole numbers without decimals
 print(123 + 456)
     # 579
-
 # in python you can replace large integer commas eg. 123,456,789 (to make it more human-readable), with underscores: 123_456_789
 print(123_456_789)
     # 123456789
