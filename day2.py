@@ -1,8 +1,9 @@
-#Data Types, Numbers, Operations, Type Conversion, F-strings
-# Data Types - String, Integers Float, Boolean
+#Data Types, Numbers, Operations, Type Conversion, f-Strings
+# ===========================================================
 
+# Data Types - String, Integers Float, Boolean
 1. # String- Pulling out a character from a string is called "subscripting". 
-#         The number in the square [] bracket determines the character that is getting pulled out from the string. The index starts from 0
+#  The number in the square [] bracket determines the character that is getting pulled out from the string. The index starts from 0
 
 print("Hello"[0])
     # H
